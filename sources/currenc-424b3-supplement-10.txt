@@ -1,0 +1,10 @@
+ORIGINAL SOURCE (do not trust summaries, read the primary):
+https://www.sec.gov/Archives/edgar/data/1862935/000149315226042669/0001493152-26-042669.txt
+
+Form: 424B3 Prospectus Supplement No. 10
+Issuer: Currenc Group Inc. (CURR)
+Filed: 2026-09-15
+Shares registered for resale: up to 50,070,187 Ordinary Shares
+Last price on cover: $3.40 (2026-09-14)
+
+This file is a pointer. The full text lives on EDGAR. Mirror it here if you want a local copy, but the canonical source is SEC.
